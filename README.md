@@ -37,10 +37,13 @@ conda create --name horus python=3.7 -y
 
 ### Prerequisite
 ```
+pip install -r requirements.txt
 ```
 
 ### How to use
 ```
+python (main_file).py --input-video path/to/your/input/video --weights path/to/model/weights
+--output-format video --output-root path/to/output/root
 ```
 <br>
 
