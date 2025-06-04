@@ -226,3 +226,9 @@ result, similarity = ag_face_recog.verify_member(ls_of_know_face_encode, unknown
 # Demo Video
 [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/jHEIXSSqw_I/0.jpg)](https://www.youtube.com/watch?v=jHEIXSSqw_I)
 <br>
+
+## Contributors
+
+<a href="https://github.com/aaron1aaron2/Horus/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=aaron1aaron2/Horus" />
+</a>
